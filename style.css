@@ -1,0 +1,57 @@
+html {
+    background-color: #f3f2f5;
+    color: black;
+    font-family: monospace;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    max-width: 800px;
+    overflow: auto;
+    font-size: 15px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: blue;
+}
+
+hr {
+    margin: 20px 0;
+    padding: 0;
+    height: 0;
+    border: none;
+    box-shadow: 0 0 2px 1px #cdcdcd;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.links > li {
+    display: inline;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 80px;
+    font-size: 40px;
+}
+
+.information {
+    list-style: square;
+}
+
+.version {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
