@@ -1,2 +1,15 @@
 {
+    "technicalworld.ru": [
+        "srv1.technicalworld.ru",
+        "srv2.technicalworld.ru",
+        "srv3.technicalworld.ru"
+    ],
+    "earthcraft.ru": [
+        "srv1.earthcraft.ru",
+        "srv2.earthcraft.ru",
+        "srv3.earthcraft.ru"
+    ],
+    "kekland.ru": [
+        "mc.kekland.ru"
+    ]
 }

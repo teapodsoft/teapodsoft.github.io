@@ -1,0 +1,36 @@
+{
+    "technicalworld.ru": [
+        {
+            "server": "srv1.technicalworld.ru",
+            "port": 25565,
+            "title": "Test SRV 1"
+        },
+        {
+            "server": "srv2.technicalworld.ru",
+            "port": 25565,
+            "title": "Test SRV 2"
+        },
+        {
+            "server": "srv3.technicalworld.ru",
+            "port": 25565,
+            "title": "Test SRV 3"
+        }
+    ],
+    "earthcraft.ru": [
+        {
+            "server": "srv1.earthcraft.ru",
+            "port": 25565,
+            "title": "Test SRV 1"
+        },
+        {
+            "server": "srv2.earthcraft.ru",
+            "port": 25565,
+            "title": "Test SRV 2"
+        },
+        {
+            "server": "srv3.earthcraft.ru",
+            "port": 25565,
+            "title": "Test SRV 3"
+        }
+    ]
+}

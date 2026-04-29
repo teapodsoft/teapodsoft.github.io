@@ -1,0 +1,53 @@
+{
+    "technicalworld.ru": [
+        {
+            "title": "VK",
+            "icon": "fa-brands fa-vk",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Steam",
+            "icon": "fa-brands fa-steam",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Lolka",
+            "icon": "fa-solid fa-ice-cream",
+            "link": "TODO_LINK"
+        }
+    ],
+    "earthcraft.ru": [
+        {
+            "title": "VK",
+            "icon": "fa-brands fa-vk",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Steam",
+            "icon": "fa-brands fa-steam",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Lolka",
+            "icon": "fa-solid fa-ice-cream",
+            "link": "TODO_LINK"
+        }
+    ],
+    "kekland.ru": [
+        {
+            "title": "VK",
+            "icon": "fa-brands fa-vk",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Steam",
+            "icon": "fa-brands fa-steam",
+            "link": "TODO_LINK"
+        },
+        {
+            "title": "Lolka",
+            "icon": "fa-solid fa-ice-cream",
+            "link": "TODO_LINK"
+        }
+    ]
+}

@@ -1,2 +1,14 @@
 {
+    "technicalworld.ru": {
+        "title": "TechnicalWorld.RU",
+        "description": "Проект игровых серверов с тематиками развития в будущее"
+    },
+    "earthcraft.ru": {
+        "title": "EarthCraft.RU",
+        "description": "Создай свою собственную идеальную планету"
+    },
+    "kekland.ru": {
+        "title": "KEKland.RU",
+        "description": "Проект игровых серверов, на которых не бывает скучно"
+    }
 }
